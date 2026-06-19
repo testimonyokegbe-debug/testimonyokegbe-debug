@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Testimony.;Learning+Frontend+and+Backend+Development.;Computer+Engineering+Student."
-       alt="Hello, I'm Testimony. Learning Frontend and Backend Development. Computer Engineering Student." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Testimony.;Frontend+and+Backend+Development.;Computer+Engineering+Student."
+       alt="Hello, I'm Testimony.  Frontend and Backend Development. Computer Engineering Student." />
 </a>
 
 <div align="center">
