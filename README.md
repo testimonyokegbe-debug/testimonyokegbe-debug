@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Testimony.;Frontend+and+backend+developer.;Computer+Engineering+student." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Testimony.; Learning Frontend+and+backend+developer.;Computer+Engineering+student." alt="Typing SVG" /></a>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">name: Okegbe Testimony Iruoghene<br><br>- 🔭I'm a frontend and backend developer<br>- 📚 education: B.eng Computer Engineering- (student)</p>
+<p align="left">name: Okegbe Testimony Iruoghene<br><br>- 🔭I'm a frontend and backend developer <br>- 📚 education: B.eng Computer Engineering- (student)</p>
 
 ###
 
