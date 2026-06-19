@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">name: Okegbe Testimony Iruoghene<br>- 🔭I'm currently learning frontend and backend development .<br>- 📚 education: B.eng Computer Engineering- (student)</p>
+<p align="left">✏️Name: Okegbe Testimony Iruoghene<br>- 🔭I'm currently learning frontend and backend development .<br>- 📚 Education: B.eng Computer Engineering- (student)</p>
 
 ###
 
