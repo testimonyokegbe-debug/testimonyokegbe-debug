@@ -1,4 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Testimony.; Learning Frontend+and+backend+developer.;Computer+Engineering+student." alt="Typing SVG" /></a>
+<<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Testimony.;Learning+Frontend+and+Backend+Developer.;Computer+Engineering+Student."
+       alt="Hello, I'm Testimony. Learning Frontend and Backend Development. Computer Engineering Student." />
+</a>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
