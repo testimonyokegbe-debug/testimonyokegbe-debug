@@ -6,8 +6,6 @@
   <a href="testimonyokegbe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
-
 ### 🚀 About Me
 
 I’m a Computer Engineering student and aspiring Software Engineer with a strong interest in full-stack web development, artificial intelligence, and building software that solves real-world problems.
@@ -16,10 +14,7 @@ I enjoy turning ideas into practical, user-focused web applications. My current 
 - 🎓 BEng Computer Engineering,  — Sept 2023 – June 2028(Expected date of graduation)
 - 🌱 Currently a fullstack developer, deepening my knowledge of Artificial Intelligence and  machine learning.
 
----
-
 ### 🛠️ Tech Stack
-
 
 **Languages**
 
@@ -56,17 +51,12 @@ I enjoy turning ideas into practical, user-focused web applications. My current 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
----
-
 ### 💼 Projects
 
 Learn -AI Study Assistant. (Currently Improving)
 https://learn-study-assistant.vercel.app/
 
 Learn is an AI-powered student productivity platform designed to bring essential study tools into one application. The platform combines an AI chat assistant with practical academic tools, allowing students to ask questions, organize notes, read PDF materials, and perform calculations without switching between different applications.
-
-
-
 
 <p> Other Projects
 Earlier frontend projects
