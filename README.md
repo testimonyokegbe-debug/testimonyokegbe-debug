@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/testimony-okegbe-338175406"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="testimonyokegbe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:testimonyokegbe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/testimonyokegbe-debug/testimonyokegbe-debug/raw/main/cv.pdf"><img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
 </p>
 
 ### 🚀 About Me
