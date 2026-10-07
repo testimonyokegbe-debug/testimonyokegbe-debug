@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 I’m a Computer Engineering student and aspiring Software Engineer with a strong interest in full-stack web development, artificial intelligence, and building software that solves real-world problems.
-I enjoy turning ideas into practical, user-focused web applications. My current experience includes HTML, CSS, JavaScript, React, Git/GitHub, and backend development, while I’m expanding my skills with technologies such as Next.js and Python and exploring AI/ML and AI integration.
+I enjoy turning ideas into practical, user-focused web applications. My current experience includes HTML, CSS, JavaScript,typescript, React, Git/GitHub, and backend development, while I’m expanding my skills with technologies such as Next.js and Python and exploring AI/ML and AI integration.
 - 💻 Testimony Iruoghene Okegbe (He/him)
 - 🎓 BEng Computer Engineering. Sept 2023 – June 2028(Expected date of graduation)
 - 🌱 Currently a fullstack developer, deepening my knowledge of Artificial Intelligence and  machine learning.
